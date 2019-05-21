@@ -1,9 +1,5 @@
 # Book Management System
 
-HW of DB
-
-ZJU teachers have a preferance for BMS, lol
-
 ## Objects
 
 * Book
@@ -26,3 +22,5 @@ ZJU teachers have a preferance for BMS, lol
 ## Environment
 
 Python 3.6 + MySQL 5.7
+
+Packages: mysql-connector, SQLAlchemy

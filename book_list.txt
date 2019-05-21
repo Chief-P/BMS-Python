@@ -1,0 +1,7 @@
+(book_no_1, Computer Science, Computer Architecture, xxx, 2004, xxx, 90.00, 2)
+(book_no_2, MA, GTM, xxx, 2034, yyy, 89.00, 5)
+(123, PHYS, QED, CH Press, 2000, yyy, 99.01, 10)
+(666, PHYS, QI, JP Press, 2018, yyy, 110.996, 9)
+(1234, MA, Algebra, US Press, 2001, JM, 666, 100)
+(1432, MA, Symlectic Geometry, PP Press, 2000, JM, 699, 100)
+(1324, MA, Convex Optimization, PP Press, 2001, JM, 899, 100)
